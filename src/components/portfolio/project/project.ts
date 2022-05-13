@@ -31,7 +31,7 @@ export const Projects:Array<projectType> = [
         id: 3,
         image:CALC,
         title:'Counter',
-        github:'http://github.com',
-        demo:'http://github.com'
+        github:'https://github.com/vikasatta1/Counter',
+        demo:'https://vikasatta1.github.io/Counter/'
     }
 ]
