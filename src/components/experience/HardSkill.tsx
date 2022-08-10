@@ -2,7 +2,6 @@ import React from 'react';
 import {MdMiscellaneousServices} from "react-icons/md";
 type HardSkillPropsType = {
     skill:string,
-    level:string
 }
 const HardSkill = (props:HardSkillPropsType) => {
     return (
@@ -10,7 +9,7 @@ const HardSkill = (props:HardSkillPropsType) => {
             <MdMiscellaneousServices className='experience__details-icon'/>
             <div>
             <h4>{props.skill}</h4>
-            <small className='text-light'>{props.level}</small>
+           {/* <small className='text-light'>{props.level}</small>*/}
             </div>
         </article>
     );

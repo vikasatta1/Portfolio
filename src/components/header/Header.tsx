@@ -2,7 +2,7 @@ import React from 'react';
 import './header.css'
 import CTA from "./CTA";
 // @ts-ignore
-import ME from '../../assets/woman.png';
+import ME from '../../assets/svgreact.jpg';
 import HeaderSocials from "./HeaderSocials";
 
 const Header = () => {

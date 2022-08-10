@@ -1,7 +1,7 @@
 import React from 'react';
 
 // @ts-ignore
-import CV from '../../assets/CV.pdf';
+import CV from '../../assets/forGomel.jpg';
 
 const CTA = () => {
     return (

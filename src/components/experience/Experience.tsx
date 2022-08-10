@@ -15,12 +15,12 @@ const Experience = () => {
                 <div className="experience__hard">               {/*coding front*/}
                     <h3>Hard</h3>
                     <div className="experience__content">
-                        <HardSkill skill={'JS/TS'} level={'Intermediate'}/>
-                        <HardSkill skill={'React'} level={'Intermediate'}/>
-                        <HardSkill skill={'Redux'} level={'Intermediate'}/>
-                        <HardSkill skill={'Rest API'} level={'Intermediate'}/>
-                        <HardSkill skill={'Axios'} level={'Intermediate'}/>
-                        <HardSkill skill={'Git'} level={'Intermediate'}/>
+                        <HardSkill skill={'JS/TS'} />
+                        <HardSkill skill={'React'} />
+                        <HardSkill skill={'Redux'}/>
+                        <HardSkill skill={'Rest API'} />
+                        <HardSkill skill={'Axios'} />
+                        <HardSkill skill={'Git'} />
                     </div>
                 </div>
 

@@ -23,26 +23,29 @@ const About = () => {
                     <div className="about__cards">
                         <article className={'about__card'}>
                             <FaAward className="about__icon"/>
-                            <h5>Experience</h5>
-                            <small>Todolist</small>
+                            <h5>Education</h5>
+                            <div><small>It-Incubator</small></div>
+                            <small>College of Electrical Engineering</small>
                         </article>
 
-                        <article className={'about__card'}>
+                       {/* <article className={'about__card'}>
                             <FiUsers className="about__icon"/>
                             <h5>Clients</h5>
                             <small>No clients</small>
-                        </article>
+                        </article>*/}
 
                         <article className={'about__card'}>
                             <TiFolderOpen className="about__icon"/>
-                            <h5>Projects</h5>
-                            <small>Todolist</small>
+                            <h5>Language</h5>
+                            <div><small>English</small></div>
+                            <small>Russian</small>
                         </article>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci eligendi eos fugiat impedit
-                        in iure magni nemo nihil nostrum numquam pariatur, porro provident quasi, quidem rem
-                        reprehenderit
-                        saepe sit totam.
+                    <p>Hello, I am front-end developer.
+                        Every day I improve my skills and expand them learning new technologies.
+                        I have experience in creating SPA, using(JS/TS), Redux, HTML, CSS.
+                        Me free time is dedicated to programming tutorials, codewars. I'm looking for a full-
+                        time job and I'm open to new opportunities.
                     </p>
 
                     <a href={'#contact'} className={'btn btn-primary'}>Let's Talk</a>
