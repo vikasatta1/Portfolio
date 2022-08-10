@@ -25,13 +25,13 @@ export const Projects:Array<projectType> = [
         image:SOCNET,
         title:'Social Network',
         github:'http://github.com',
-        demo:'http://github.com'
+        demo:'https://vikasatta1.github.io/SocialNetwork/'
     },
     {
         id: 3,
         image:CALC,
-        title:'Counter',
-        github:'https://github.com/vikasatta1/Counter',
-        demo:'https://vikasatta1.github.io/Counter/'
+        title:'Pizza',
+        github:'https://github.com/vikasatta1/vikasatta1/pizza2',
+        demo:'https://vikasatta1.github.io/pizza2/'
     }
 ]
