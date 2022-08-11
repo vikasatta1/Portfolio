@@ -17,14 +17,14 @@ export const Projects:Array<projectType> = [
         id: 1,
         image:TODO,
         title:'Todolist',
-        github:'https://github.com/vikasatta1/TodoForPortfolio',
+        github:'https://github.com/vikasatta1/TodoDone',
         demo:'https://vikasatta1.github.io/TodoForPortfolio'
     },
     {
         id: 2,
         image:SOCNET,
         title:'Social Network',
-        github:'http://github.com',
+        github:'https://github.com/vikasatta1/SocialNetwork',
         demo:'https://vikasatta1.github.io/SocialNetwork/'
     },
     {
