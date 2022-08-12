@@ -17,8 +17,8 @@ export const Projects:Array<projectType> = [
         id: 1,
         image:TODO,
         title:'Todolist',
-        github:'https://github.com/vikasatta1/TodoDone',
-        demo:'https://vikasatta1.github.io/TodoForPortfolio'
+        github:'https://github.com/vikasatta1/TodolistForPortfolio',
+        demo:'https://vikasatta1.github.io/TodolistForPortfolio'
     },
     {
         id: 2,
