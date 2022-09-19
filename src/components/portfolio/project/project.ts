@@ -22,15 +22,9 @@ export const Projects:Array<projectType> = [
         github:'https://github.com/vikasatta1/TodolistForPortfolio',
         demo:'https://vikasatta1.github.io/TodolistForPortfolio'
     },
+
     {
         id: 2,
-        image:SOCNET,
-        title:'Social Network',
-        github:'https://github.com/vikasatta1/SocialNetwork',
-        demo:'https://vikasatta1.github.io/SocialNetwork/'
-    },
-    {
-        id: 3,
         image:CALC,
         title:'Pizza',
         github:'https://github.com/vikasatta1/pizza2',
@@ -42,5 +36,12 @@ export const Projects:Array<projectType> = [
         title:'Calculator',
         github:'https://github.com/vikasatta1/calculator',
         demo:'https://vikasatta1.github.io/calculator'
-    }
+    },
+    {
+        id: 4,
+        image:SOCNET,
+        title:'Social Network',
+        github:'https://github.com/vikasatta1/SocialNetwork',
+        demo:'https://vikasatta1.github.io/SocialNetwork/'
+    },
 ]
