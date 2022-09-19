@@ -4,6 +4,8 @@ import TODO from '../../../assets/todo.png';
 import SOCNET from '../../../assets/socnet.png';
 // @ts-ignore
 import CALC from '../../../assets/calc.png';
+// @ts-ignore
+import CHET from '../../../assets/chet.png';
 import React from "react";
 type projectType = {
     id: number,
@@ -33,5 +35,12 @@ export const Projects:Array<projectType> = [
         title:'Pizza',
         github:'https://github.com/vikasatta1/pizza2',
         demo:'https://vikasatta1.github.io/pizza2/'
+    },
+    {
+        id: 4,
+        image:CHET,
+        title:'Calculator',
+        github:'https://github.com/vikasatta1/calculator',
+        demo:'https://vikasatta1.github.io/calculator'
     }
 ]
