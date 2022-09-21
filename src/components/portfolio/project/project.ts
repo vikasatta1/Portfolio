@@ -6,6 +6,8 @@ import SOCNET from '../../../assets/socnet.png';
 import CALC from '../../../assets/calc.png';
 // @ts-ignore
 import CHET from '../../../assets/chet.png';
+// @ts-ignore
+import WEATHER from '../../../assets/weather.png';
 import React from "react";
 type projectType = {
     id: number,
@@ -15,6 +17,13 @@ type projectType = {
     demo:string,
 }
 export const Projects:Array<projectType> = [
+    {
+        id: 0,
+        image:WEATHER,
+        title:'Weather',
+        github:'https://github.com/vikasatta1/WeatherOpenWeather',
+        demo:'https://vikasatta1.github.io/WeatherOpenWeather'
+    },
     {
         id: 1,
         image:TODO,
