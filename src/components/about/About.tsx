@@ -44,7 +44,7 @@ const About = () => {
                     <p>Hello, I am front-end developer.
                         Every day I improve my skills and expand them learning new technologies.
                         I have experience in creating SPA, using(JS/TS), Redux, HTML, CSS.
-                        Me free time is dedicated to programming tutorials, codewars. I'm looking for a full-
+                        My free time is dedicated to programming tutorials, codewars. I'm looking for a full-
                         time job and I'm open to new opportunities.
                     </p>
 
