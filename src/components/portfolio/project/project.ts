@@ -49,8 +49,8 @@ export const Projects:Array<projectType> = [
     {
         id: 4,
         image:SOCNET,
-        title:'Social Network',
-        github:'https://github.com/vikasatta1/SocialNetwork',
-        demo:'https://vikasatta1.github.io/SocialNetwork/'
+        title:'Blogger Platform in progress',
+        github:'https://github.com/vikasatta1/guildSamurai',
+        demo:'https://vikasatta1.github.io/guildSamurai/'
     },
 ]
